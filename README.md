@@ -1,3 +1,3 @@
-# DTSA5509-Final-Project
+# Predicting Myocardial Infarction Outcomes
 
 Please view the Jupyter notebook to see my project
